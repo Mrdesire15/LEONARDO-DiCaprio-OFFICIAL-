@@ -1,0 +1,6 @@
+{
+  "name": "Leonardo DiCaprio — Cinematic Legacy & VIP Experience",
+  "description": "Luxurious, cinematic front-end portal celebrating Leonardo DiCaprio with 3D orbital navigation, film reel career timeline, awards gallery, holographic VIP lounge, and secure boutique checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
